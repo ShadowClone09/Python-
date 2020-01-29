@@ -53,6 +53,9 @@ while i < n:
     if i == n:
 
         print("You're out of chances!")
+        
+        print("The number was " + str(a), ".")
+        
         break
 
 p = i - 1
